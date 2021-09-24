@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/sumithere3301" target="blank"><img src="https://img.shields.io/twitter/follow/sumithere3301?logo=twitter&style=for-the-badge" alt="sumithere3301" /></a> </p>
 
-- 🔭 I’m currently working on [Pomodoro Timer in Python](https://github.com/Sumit3301/Pomodoro-Timer)
 
 - 🌱 I’m currently learning **Data Aanalytics**
 
