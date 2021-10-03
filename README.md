@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sumit.gaur1999](https://medium.com/@sumit.gaur1999)
 
-- 💬 Ask me about **Python, C++, DBMS**
+- 💬 Ask me about **Python, C++**
 
 - 📫 How to reach me **sumitgaur@ieee.org**
 
