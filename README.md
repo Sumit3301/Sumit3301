@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Python, C++**
 
-- 📫 How to reach me **sumitgaur@ieee.org**
+- 📫 How to reach me **sumit.gaur1999@gmail.com**
 
 - ⚡ Fun fact **I also know web development :p**
 
