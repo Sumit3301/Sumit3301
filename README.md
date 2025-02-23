@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit Gaur</h1>
-<h3 align="center">Data Science enthusiast from India</h3>
+<h3 align="center">Python Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit3301&label=Profile%20views&color=ff004c&style=flat" alt="sumit3301" /> </p>
 
@@ -8,17 +8,17 @@
 <p align="left"> <a href="https://twitter.com/sumithere3301" target="blank"><img src="https://img.shields.io/twitter/follow/sumithere3301?logo=twitter&style=for-the-badge" alt="sumithere3301" /></a> </p>
 
 
-- 🌱 I’m currently learning **Data Aanalytics**
+- 🌱 I’m currently learning **Data Science** and my everyday work involved scraping data from the web,automating manual tasks.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sumit3301](https://github.com/Sumit3301)
 
 - 📝 I regularly write articles on [https://medium.com/@sumit.gaur1999](https://medium.com/@sumit.gaur1999)
 
-- 💬 Ask me about **Python, C++**
+- 💬 Ask me about **Python, Data science, Java, Cloud**
 
 - 📫 How to reach me **sumit.gaur1999@gmail.com**
 
-- ⚡ Fun fact **I also know web development :p**
+- ⚡ Fun fact **I love listening to music :p**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
