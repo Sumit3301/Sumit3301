@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sumit.gaur1999](https://medium.com/@sumit.gaur1999)
 
-- 💬 Ask me about **Python, Data science, Java, Cloud**
+- 💬 Ask me about **Python, Data science, Cloud**
 
 - 📫 How to reach me **sumit.gaur1999@gmail.com**
 
