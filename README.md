@@ -51,19 +51,6 @@ Strong foundation in data modeling, performance tuning, and automation.
 
 ---
 
-## Projects
-
-All projects are available at:  
-https://github.com/Sumit3301  
-
-Focus areas include:
-- Distributed data processing
-- Workflow automation
-- Web data extraction
-- Cloud-based data solutions
-
----
-
 ## Publications
 
 Technical articles:  
